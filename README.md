@@ -73,19 +73,7 @@ print(f"Streamlit app is live at: {public_url}")
 ### Step 6: Open the App
 Click the **ngrok public URL** to open your app in the browser.
 
-## Screenshots 📸
 
-### Home Page
-![Home Page](https://source.unsplash.com/random/800x400)
-
-### Visualizations Page
-![Visualizations Page](https://via.placeholder.com/800x400?text=Visualizations)
-
-### File Uploads Page
-![File Upload Page](https://via.placeholder.com/800x400?text=File+Upload)
-
-### Machine Learning Dashboard
-![ML Dashboard Page](https://via.placeholder.com/800x400?text=ML+Dashboard)
 
 ## Dependencies 📦
 
